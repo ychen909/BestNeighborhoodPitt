@@ -4,17 +4,33 @@ Set 29
 
 How to define bestness:
 
+The Metric:
 Crime Rates (lower is better)
-https://data.wprdc.org/dataset/arrest-data
+Police Firearm Seizures (lower is better)
+Police Incident Reports (lower is better)
+
+We will define "bestness" as the "safety" of a neighborhood.
+Lower Crime Rates does not imply safety, but it has a somewhat direct correlation
+with it.
+Similarly, firearm seizures don't imply less gun violence, but lower firearm seizures have
+a somewhat direct correlation with lower gun violence.
+Police incident reports would allow one to guage out the "true safety" of a neighborhood.
+
+Procedure in determining the best neighborhood:
+
+Within Each Individual Notebook:
+Rank each neighborhood in each dataset based on the metrics.
+	-Determine system and metrics for ranking
+	-Perform Ranking (may need additional visualizations)
+	-Visualize Ranking
+
+Assign each neighborhood a mean score.
+	-Take ranking of each neighborhood in set, sum, and divide by 3
+	-Lowest Average is best
 
 
-Property Value (higher is better)
 
 
 
-Noise Level (lower is better)
 
-Pollution Level (lower is better)
-
-School Grades (higher is better)
 
