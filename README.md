@@ -1,8 +1,8 @@
 # BestNeighborhoodPitt
 CMPINF 0010 Final Project
 
-## Team Name: Set 29
-## Canvas Group #: 29
+** Team Name: Set 29 **
+** Canvas Group #: 29 **
 Members: 
 1. Yanjia Chen (yac102@pitt.edu)
 2. Parth Patel 
