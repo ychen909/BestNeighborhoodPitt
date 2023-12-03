@@ -6,9 +6,9 @@ CMPINF 0010 Final Project
 **Canvas Group #: 29**
 
 Members: 
-1. Yanjia Chen (yac102@pitt.edu)
-2. Parth Patel 
-3. Adeel Piracha
+1. Yanjia Chen (yac102@pitt.edu): Worked on Incident Blotter (https://data.wprdc.org/dataset/police-incident-blotter)
+3. Parth Patel (pvp9@pitt.edu): Worked on Police Arrests (https://data.wprdc.org/dataset/arrest-data)
+4. Adeel Piracha (aap240@pitt.edu): Worked on Firearm Seizures (https://data.wprdc.org/dataset/pbp-fire-arm-seizures)
 
 # Links to datasets:
 1. Police Arrest Data: https://data.wprdc.org/dataset/arrest-data
