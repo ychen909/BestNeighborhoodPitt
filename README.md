@@ -16,6 +16,11 @@ Members:
 3. Police Tracked Incidents: https://data.wprdc.org/dataset/police-incident-blotter
 
 
+# Summary of Project
+
+In this project, we shall analyze data from the above datasets in order to determine what the "best" neighborhood in Pittsburgh; from our metric, we have thus determined that **Mt. Oliver Neighborhood** would be the best neighborhood in Pittsburgh.
+
+
 
 
    
